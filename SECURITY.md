@@ -15,6 +15,6 @@ TrustLens takes security seriously.
 ## Responsible Disclosure
 
 Report vulnerabilities to:
-security@trustlens.example
+contact@lyfmail.com
 
 Please allow time for investigation.
