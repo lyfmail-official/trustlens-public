@@ -87,6 +87,11 @@ The TrustLens detection engine, heuristics, scoring logic, and operational sourc
 
 ---
 
+![Status](https://img.shields.io/badge/status-active--development-green)
+![Privacy](https://img.shields.io/badge/privacy-first-blue)
+![Scope](https://img.shields.io/badge/repository-documentation--only-lightgrey)
+
+
 ## License
 
 All documentation © TrustLens.  
